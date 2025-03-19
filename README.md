@@ -19,12 +19,15 @@ I am a passionate **CSE student**, **open-source contributor**, and **MERN stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)  
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)  
 
 ## 📊 GitHub Stats:  
 ![Divyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyamprabhudessai&show_icons=true&theme=dark)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyamprabhudessai&layout=compact&theme=dark)  
 
 ## 🔥 Streak Stats:  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyamprabhudessai&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=divyamprabhudessai&theme=dark)  
